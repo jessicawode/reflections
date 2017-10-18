@@ -7,6 +7,11 @@ versions.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is the space between the working directory and the repository.
+It shows an intention to move something out of the working directory and commit
+it, but it provides an opportunity to back out before changes are actually
+committed.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
