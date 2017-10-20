@@ -15,8 +15,16 @@ committed.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By viewing the differences between the file you're about to commit and the
+latest version, you can ensure that there is only one logical change being
+committed.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches are helpful when working on a different version of a program, so you
+can continue working on the standard version as well. Branches would keep the
+changes to each version separate.
 
 How do the diagrams help you visualize the branch structure?
 
