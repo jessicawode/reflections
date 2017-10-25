@@ -28,8 +28,18 @@ changes to each version separate.
 
 How do the diagrams help you visualize the branch structure?
 
+They illustrate which commits are related to one another and in what way.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging brings together all the changes made on both branches into a single
+version of the code. We represent it the way we do to show where the code was
+last in common, and when all the changes from both branches were included again.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+If the differences can be easily identified, Git will do the work for you. It's
+possible it might get it wrong, but it has a built-in guard against that. The
+automatic merging will save you a lot of time.
