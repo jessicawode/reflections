@@ -19,3 +19,8 @@ want to make changes but are not a collaborator on their repository. Use cloning
 when you want to copy something from your GitHub account to your local computer
 or from another location on your network. Use branching when you want to create
 some new part of your existing project without affecting the primary version.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can work offline using the latest version of the repository.
