@@ -24,3 +24,11 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 You can work offline using the latest version of the repository.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+You'd need to send files back and forth or use a shared network drive. There
+would be fewer steps to remember, but more chances for mistakes to overwrite
+good data, and for multiple copies to exist without it being clear what order
+they were created in.
